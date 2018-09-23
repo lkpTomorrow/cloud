@@ -19,7 +19,8 @@
       "testTsconfig": "tsconfig.spec.json",
       "prefix": "app",
       "styles": [
-        "styles.scss"
+        "styles.scss",
+        "app/ngdesign/ng-zorro-ant.less"
       ],
       "scripts": [],
       "environmentSource": "environments/environment.ts",
